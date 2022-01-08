@@ -1,0 +1,5 @@
+[columns]
+
+day_of_week = WEEKDAY(data_copy[started_at],1)
+
+bike_returned_to_start_station = data_copy[start_station_id] = data_copy[end_station_id]
