@@ -16,7 +16,7 @@ My objective is to **analyze 12 months of data** using the skills I learned **to
 - R Studio Cloud
 
 ### [Preparing the Data]
-- I used Excel's **Power Query** to Combine and Edit 12 months of data.
-  - Power Query gives me the ability to extract and combine multiple excel files as long as the sheets are all formated similarly
-    - I've used this tool in the past to combine more than 700 excel files
-  - Using Power QUery also allows me to make large scale edits all without changing original files one by one.
+
+1. Made a Copy of all files and converted them from .csv to .xlsx
+2. Renamed sheets to "report"
+3. Used **Excel Power Query** to Combine and Edit 12 months of data.
