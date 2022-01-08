@@ -17,4 +17,4 @@ My objective is to **analyze 12 months of data** using the skills I learned **to
 1. Made a Copy of all files and converted them from .csv to .xlsx
 2. Renamed sheets to "report"
 3. Used **Power BI** to Combine and Edit 12 months of data.
-  - For more details regarding this process see HERE 
+    - For more details regarding this process see HERE 
