@@ -30,3 +30,14 @@ I personally like using Power BI because I believe it handles data cleaning bett
 
 #### Data Viz using Power BI
 ![Data Viz](https://github.com/Marticar001/portfolio/blob/main/data_analysis/case_study_01/power_bi/data_viz.PNG)
+
+### [Recommnedation]
+Based on my analysis of this data my recommendations are
+- Provide better ensentives for customers
+    - Reward Type Program
+        - Members get points for riding longer
+        - Offer different tiers of members ships to drive sign ups
+- Evaluate Docked Bikes
+    - Is there a reason customers prefer classic over docked so much?
+        - Is it do to the condition of the bikes or a customers unfamiliarity with how dock bikes work
+    - Offer a wider selectin of classic bikes 
