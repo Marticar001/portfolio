@@ -1,6 +1,8 @@
 # portfolio
 **Name:**  Carlos Martinez-Rodas [(LinkedIn)](https://www.linkedin.com/in/carlos-martinez-rodas-62a18b62/)
 
+**Current Position:**  Data Analyst - Merchandising
+
 **Birthday:** August 1994
 
 <img src="https://github.com/Marticar001/portfolio/blob/main/images/64290207_10214913358042900_7836748103108526080_n.jpg" width="250" height="250">
