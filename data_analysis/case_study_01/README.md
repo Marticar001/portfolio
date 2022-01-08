@@ -10,13 +10,11 @@
 My objective is to **analyze 12 months of data** using the skills I learned **to identify the difference between casual riders and annual riders.**
 
 #### Tools Used
-- Excel
-  - Power Query
-- Tableau Public
-- R Studio Cloud
+- Power BI
 
 ### [Preparing the Data]
 
 1. Made a Copy of all files and converted them from .csv to .xlsx
 2. Renamed sheets to "report"
-3. Used **Excel Power Query** to Combine and Edit 12 months of data.
+3. Used **Power BI** to Combine and Edit 12 months of data.
+  - For more details regarding this process see HERE 
