@@ -27,3 +27,6 @@ I personally like using Power BI because I believe it handles data cleaning bett
 - Casual Riders ride on average 3 times longer than Members
 - Only ONE docked bike was used by a Member
 - Both types members prefer classic bikes
+
+#### Data Viz using Power BI
+![Data Viz](https://github.com/Marticar001/portfolio/blob/main/data_analysis/case_study_01/power_bi/data_viz.PNG)
