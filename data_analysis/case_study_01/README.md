@@ -12,9 +12,18 @@ My objective is to **analyze 12 months of data** using the skills I learned **to
 #### Tools Used
 - Power BI
 
-### [Preparing the Data]
+### [Preparing and Processing the Data]
 
 1. Made a Copy of all files and converted them from .csv to .xlsx
 2. Renamed sheets to "report"
 3. Used **Power BI** to Combine and Edit 12 months of data.
-    - For more details regarding this process see HERE 
+    - For more details regarding this process see [HERE](https://github.com/Marticar001/portfolio/tree/main/data_analysis/case_study_01/power_bi)
+ 
+### [Analysis]
+I personally like using Power BI because I believe it handles data cleaning better than Tableau.  While Tableau can shine when it comes to complex interactive visuals I believe Power BI can be used when a more simple analysis like this one is needed.
+
+#### Findings
+- Casual Riders ride more during the weekend while Members ride more during the weekday
+- Casual Riders ride on average 3 times longer than Members
+- Only ONE docked bike was used by a Member
+- Both types members prefer classic bikes
