@@ -21,3 +21,5 @@
   - Perform the basics tuple operations in Python, including indexing, slicing and sorting
 - Hands on Lab: Dictionaries in Python
   - Work with and perform operations on dictionaries in Python
+- Hands on Lab: Sets in Python
+  - Work with sets in Python, including operations and logic operations.
