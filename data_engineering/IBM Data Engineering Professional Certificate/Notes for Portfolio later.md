@@ -6,20 +6,23 @@
   - Explore your dataset using SQL queries
 
 #### Course 02: Python for Data Science, AI & Development
-- Hands on Lab: Writing Your First Python Code
-  - Write basic code in Python
-  - Work with various types of data in Python
-  - Convert the data from one type to another
-  - Use expressions and variables to perform operations
-- Hands on Lab: String Operations
-  - Work with Strings
-  - Perform operations on String
-  - Manipulate Strings using indexing and escape sequences
-- Hands on Lab: Lists in Python
-  - Perform list operations in Python, including indexing, list manipulation, and copy/clone list.
-- Hands on Lab: Tuples in Python
-  - Perform the basics tuple operations in Python, including indexing, slicing and sorting
-- Hands on Lab: Dictionaries in Python
-  - Work with and perform operations on dictionaries in Python
-- Hands on Lab: Sets in Python
-  - Work with sets in Python, including operations and logic operations.
+- Hands on Lab:
+  - Writing Your First Python Code
+    - Write basic code in Python
+    - Work with various types of data in Python
+    - Convert the data from one type to another
+    - Use expressions and variables to perform operations
+  - String Operations
+    - Work with Strings
+    - Perform operations on String
+    - Manipulate Strings using indexing and escape sequences
+  - Lists in Python
+    - Perform list operations in Python, including indexing, list manipulation, and copy/clone list.
+  - Tuples in Python
+    - Perform the basics tuple operations in Python, including indexing, slicing and sorting
+  - Dictionaries in Python
+    - Work with and perform operations on dictionaries in Python
+  - Sets in Python
+    - Work with sets in Python, including operations and logic operations.
+  - Conditions in Python
+    - work with condition statements in Python, including operators, and branching.
