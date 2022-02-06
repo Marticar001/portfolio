@@ -19,3 +19,5 @@
   - Perform list operations in Python, including indexing, list manipulation, and copy/clone list.
 - Hands on Lab: Tuples in Python
   - Perform the basics tuple operations in Python, including indexing, slicing and sorting
+- Hands on Lab: Dictionaries in Python
+  - Work with and perform operations on dictionaries in Python
