@@ -26,3 +26,5 @@
     - Work with sets in Python, including operations and logic operations.
   - Conditions in Python
     - work with condition statements in Python, including operators, and branching.
+  - Loops in Python
+    - work with the loop statements in Python, including for-loop and while-loop.
