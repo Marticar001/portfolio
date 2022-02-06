@@ -15,3 +15,5 @@
   - Work with Strings
   - Perform operations on String
   - Manipulate Strings using indexing and escape sequences
+- Hands on Lab: Lists in Python
+  - Perform list operations in Python, including indexing, list manipulation, and copy/clone list.
