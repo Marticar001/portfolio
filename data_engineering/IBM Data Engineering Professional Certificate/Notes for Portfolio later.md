@@ -28,3 +28,6 @@
     - work with condition statements in Python, including operators, and branching.
   - Loops in Python
     - work with the loop statements in Python, including for-loop and while-loop.
+  - Functions in Python
+    - Understand functions and variables
+    - Work with functions and variables
