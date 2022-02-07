@@ -35,4 +35,4 @@
     - Understand exceptions
     - Handle the exceptions
 
-I barely understood anything about creating a Class....lets revisit.  That Circle analogy made no sense.  Lets revisit.
+I barely understood anything about creating a Class....lets revisit.  That Circle analogy made no sense.  Maybe my brain was just down learning at that point.
