@@ -34,3 +34,5 @@
   - Exception Handling
     - Understand exceptions
     - Handle the exceptions
+
+I barely understood anything about creating a Class....lets revisit.  That Circle analogy made no sense.  Lets revisit.
