@@ -31,3 +31,6 @@
   - Functions in Python
     - Understand functions and variables
     - Work with functions and variables
+  - Exception Handling
+    - Understand exceptions
+    - Handle the exceptions
