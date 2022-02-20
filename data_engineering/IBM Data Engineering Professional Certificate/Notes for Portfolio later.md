@@ -36,5 +36,7 @@
     - Handle the exceptions
   - Reading Files Python
     - Read text files using Python libraries
+  - Write and Save Files in Python
+    - Write to files using Python libraries
 
 I barely understood anything about creating a Class....lets revisit.  That Circle analogy made no sense.  Maybe my brain was just down learning at that point.
