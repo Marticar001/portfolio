@@ -17,3 +17,58 @@
     ```Python
     !unzip source.zip
     ```
+    
+4. Set Paths
+    ```Python
+    tmpfile     = "temp.tmp"                # file used to store all extracted data
+    logfile     = "logfile.txt"             # all event logs will be stored in this file
+    targetfile  = "transformed_data.csv"    # file where transformed data is stored
+    ```
+    
+5. CSV Extract Function
+    ```Python
+    def extract_from_csv(file_to_process):
+        dataframe = pd.read_csv(file_to_process)
+        return dataframe
+    ```
+    
+6. JSON Extract Function
+    ```Python
+    def extract_from_json(file_to_process):
+        dataframe = pd.read_json(file_to_process,lines=True)
+        return dataframe
+    ```    
+
+7. XML Extract Function
+    ```Python
+    def extract_from_xml(file_to_process):
+        dataframe = pd.DataFrame(columns=["name", "height", "weight"])
+        tree = ET.parse(file_to_process)
+        root = tree.getroot()
+        for person in root:
+            name = person.find("name").text
+            height = float(person.find("height").text)
+            weight = float(person.find("weight").text)
+            dataframe = dataframe.append({"name":name, "height":height, "weight":weight}, ignore_index=True)
+        return dataframe
+    ``` 
+    
+8. Extract Function
+    ```Python
+    def extract():
+        extracted_data = pd.DataFrame(columns=['name','height','weight']) # create an empty data frame to hold extracted data
+        
+        #process all csv files
+        for csvfile in glob.glob("*.csv"):
+            extracted_data = extracted_data.append(extract_from_csv(csvfile), ignore_index=True)
+            
+        #process all json files
+        for jsonfile in glob.glob("*.json"):
+            extracted_data = extracted_data.append(extract_from_json(jsonfile), ignore_index=True)            
+
+        #process all xml files
+        for xmlfile in glob.glob("*.xml"):
+            extracted_data = extracted_data.append(extract_from_xml(xmlfile), ignore_index=True)
+            
+        return extracted_data
+    ```
