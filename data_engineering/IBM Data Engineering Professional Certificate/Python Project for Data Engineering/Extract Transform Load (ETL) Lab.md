@@ -105,3 +105,28 @@
         with open("logfile.txt","a") as f:
             f.write(timestamp + ',' + message + '\n')
     ```    
+
+12. Running ETL Process
+    ```Python
+    log("ETL Job Started")
+    ```
+    ```Python
+    log("Extract phase Started")
+    extracted_data = extract()
+    log("Extract phase Ended")
+    extracted_data
+    ```
+    ```Python
+    log("Transform phase Started")
+    transformed_data = transform(extracted_data)
+    log("Transform phase Ended")
+    transformed_data
+    ```
+    ```Python
+    log("Load phase Started")
+    load(targetfile,transformed_data)
+    log("Load phase Ended")
+    ```
+    ```Python
+    log("ETL Job Ended")
+    ```     
